@@ -14,11 +14,9 @@
 - Enable real-time monitoring and remote control.  
 - Reduce energy consumption through optimized processes.  
 
----
 
 ## **PROCEDURE**
 
----
 
 ### **1. Comparative Analysis Prompt**  
 **Prompt:**  
@@ -29,8 +27,7 @@ IoT-based automation allows real-time data collection, predictive maintenance, a
 
 **Gemini:**  
 IoT automation gives live data and predictive alerts, while manual monitoring depends on workers physically checking machines. IoT is faster and reduces errors, but manual monitoring is cheaper and simple for small setups.  
-
----
+ 
 
 ### **2. Experiential Perspective Prompt**  
 **Prompt:**  
@@ -42,7 +39,7 @@ As a factory manager, predictive maintenance helps me avoid costly breakdowns, s
 **Gemini:**  
 From a manager’s view, predictive maintenance saves money, prevents sudden stoppages, and ensures machines last longer. It also reduces stress of unexpected breakdowns.  
 
----
+ 
 
 ### **3. Everyday Functioning Prompt**  
 **Prompt:**  
@@ -54,7 +51,7 @@ IoT systems track machine energy consumption in real time, helping reduce waste.
 **Gemini:**  
 IoT monitoring shows which machines use more power and allows remote switching. It helps workers manage energy and control operations from a dashboard.  
 
----
+ 
 
 ### **4. Universal Prompt Structures**  
 **Prompt:**  
@@ -66,7 +63,7 @@ Predictive maintenance means fixing machines before they break down. For example
 **Gemini:**  
 Predictive maintenance is checking machines in advance. Example: If sensors detect overheating, repairs are done before the machine stops working.  
 
----
+ 
 
 ### **5. Prompt Size Limitations**  
 **Prompt:**  
@@ -87,7 +84,7 @@ Predictive maintenance is checking machines in advance. Example: If sensors dete
 4. Worker safety alerts  
 5. Energy usage tracking  
 
----
+ 
 
 ## **Evaluation (Rubrics: Clarity, Relevance, Completeness — 1 to 5 scale)**  
 
@@ -99,7 +96,7 @@ Predictive maintenance is checking machines in advance. Example: If sensors dete
 | Universal Prompt Structures| 5               | 5                 | 5                    | 4              | 4                | 4                   |  
 | Prompt Size Limitations    | 5               | 5                 | 5                    | 4              | 4                | 4                   |  
 
----
+ 
 
 ## **Conclusion**  
 This experiment demonstrated five prompt types for an IoT-based manufacturing automation use case.  
@@ -107,7 +104,7 @@ This experiment demonstrated five prompt types for an IoT-based manufacturing au
 - **Gemini** gave concise and relevant responses, though slightly less detailed.  
 Using rubrics, ChatGPT scored higher on completeness, while Gemini scored well on efficiency and brevity.  
 
----
+ 
 
 ## **Result**  
 The prompts were successfully executed using two AI tools. Their outputs were compared, and the evaluation showed that both tools generate useful results, with ChatGPT excelling in depth and Gemini in conciseness.  
